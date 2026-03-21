@@ -2,7 +2,7 @@
 pageType: home
 
 hero:
-  name: 新地科技有限责任公司
+  name: 新地科技有限公司
   text: 官方 · 摸鱼时间 · 作品集
   tagline: 一个有趣的初创科技公司
   actions:
