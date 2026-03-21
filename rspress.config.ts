@@ -10,19 +10,19 @@ export default defineConfig({
     {
       lang: 'zh',
       label: '简体中文',
-      title: '人工智能制造 · Rspress Theme AIm',
-      description: '零本地环境 · GitHub Pages 一键部署的 Rspress 文档站模板，支持版权信息、ICP备案、公安备案等功能',
+      title: '新地科技',
+      description: '摸鱼时间作品集',
     },
     {
       lang: 'en',
       label: 'English',
-      title: 'AI Manufacturing · Rspress Theme AIm',
-      description: 'Zero local setup · GitHub Pages one-click deployment Rspress documentation template, supporting copyright information, ICP record, public security record and other features',
+      title: 'XinDi Technology',
+      description: '摸鱼时间作品集',
     },
   ],
   plugins: [
     pluginSitemap({
-      siteUrl: 'https://xindi-technology.github.io/rspress-theme-aim/',
+      siteUrl: 'https://xindi-technology.github.io/',
     }),
   ],
   builderConfig: {
@@ -34,7 +34,7 @@ export default defineConfig({
           tag: 'meta',
           attrs: {
             name: 'msvalidate.01',
-            content: 'YOUR_BING_VERIFICATION_CODE',
+            content: 'D9F5D8DA09D0744A0A8F577D7CF4CB8B',
           },
         },
         // SEO 优化标签
@@ -42,14 +42,14 @@ export default defineConfig({
           tag: 'meta',
           attrs: {
             name: 'description',
-            content: '零本地环境 · GitHub Pages 一键部署的 Rspress 文档站模板，支持版权信息、ICP备案、公安备案等功能',
+            content: '摸鱼时间作品集',
           },
         },
         {
           tag: 'meta',
           attrs: {
             name: 'keywords',
-            content: 'Rspress, 文档站, GitHub Pages, ICP备案, 公安备案, 静态站点, 零本地环境',
+            content: '摸鱼时间作品集',
           },
         },
         {
@@ -74,12 +74,12 @@ export default defineConfig({
       {
         icon: 'github',
         mode: 'link',
-        content: 'https://github.com/XinDi-Technology/rspress-theme-aim',
+        content: 'https://github.com/XinDi-Technology/xindi-technology.github.io',
       },
     ],
     // 版权信息配置
-    companyName: 'AIm',  // 必填，公司名称
-    companyUrl: 'https://xindi-technology.github.io/rspress-theme-aim/',  // 必填，公司链接
+    companyName: '新地科技（沈阳）有限责任公司',  // 必填，公司名称
+    companyUrl: 'https://xindi-technology.github.io/',  // 必填，公司链接
     startYear: 2025,  // 可选，默认为 2020
     // endYear: 2023,    // 可选，默认为当前年份
     // ICP备案配置
@@ -88,7 +88,7 @@ export default defineConfig({
     gonganNumber: '',  // 可选，为空时不显示公安备案信息，默认为：鲁公网安备12345678912345号
     // 编辑此页链接配置
     editLink: {
-      docRepoBaseUrl: 'https://github.com/XinDi-Technology/rspress-theme-aim/tree/main/docs',
+      docRepoBaseUrl: 'https://github.com/XinDi-Technology/tree/main/docs',
     },
     // 最后更新时间配置
     lastUpdated: true,  // 显示文档最后更新时间
