@@ -3,7 +3,7 @@ import { defineConfig } from '@rspress/core';
 import { pluginSitemap } from '@rspress/plugin-sitemap';
 
 export default defineConfig({
-  base: '/rspress-theme-aim/',
+  base: '/',
   root: path.join(__dirname, 'docs'),
   lang: 'zh',
   locales: [
