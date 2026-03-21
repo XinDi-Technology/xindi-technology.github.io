@@ -1,18 +1,26 @@
 [
   {
-    "text": "指南",
-    "link": "/guide/"
+    "text": "关于我们",
+    "link": "/about/"
   },
   {
-    "text": "开发者",
-    "link": "/developer/"
+    "text": "广义方法论",
+    "link": "/bsm/"
+  },
+  {
+    "text": "普适管理学",
+    "link": "/um/"
+  },
+  {
+    "text": "中文技术文档风格指南",
+    "link": "/ctdsg/"
+  },
+  {
+    "text": "中文互联网项目合规指南",
+    "link": "/ipcg/"
   },
   {
     "text": "博客",
     "link": "/blog/"
-  },
-  {
-    "text": "Markdown 测试",
-    "link": "/markdown-test"
   }
 ]
