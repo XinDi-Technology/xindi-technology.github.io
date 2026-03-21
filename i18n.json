@@ -1,0 +1,58 @@
+{
+  "guide": {
+    "en": "Guide",
+    "zh": "指南"
+  },
+  "markdownTest": {
+    "en": "Markdown Test",
+    "zh": "语法测试"
+  },
+  "home": {
+    "en": "Home",
+    "zh": "首页"
+  },
+  "gettingStarted": {
+    "en": "Getting Started",
+    "zh": "快速开始"
+  },
+  "upgrade": {
+    "en": "Upgrade Guide",
+    "zh": "升级指南"
+  },
+  "copyright": {
+    "en": "Copyright",
+    "zh": "版权信息"
+  },
+  "icp": {
+    "en": "ICP Record",
+    "zh": "ICP备案"
+  },
+  "gongan": {
+    "en": "Public Security Record",
+    "zh": "公安备案"
+  },
+  "editLink": {
+    "en": "Edit Link",
+    "zh": "编辑链接"
+  },
+  "lastUpdate": {
+    "en": "Last Updated",
+    "zh": "最后更新"
+  },
+  "homeFeatures": {
+    "en": "Home Features",
+    "zh": "首页特性"
+  },
+  "blog": {
+    "en": "Blog",
+    "zh": "博客"
+  },
+  "blogEmpty": {
+    "en": "No blog posts yet",
+    "zh": "暂无博客文章"
+  },
+  "blogLatestPosts": {
+    "en": "Latest Posts",
+    "zh": "最新文章"
+  }
+}
