@@ -2,22 +2,22 @@
 
 新地科技（沈阳）有限责任公司，成立于2019年12月。
 
-## 业务：
+### 业务：
 
 1. 网站：[百工庐](https://zhangnianqiang.top/) 家庭维修指南
 2. 3D打印
 3. 电气自动化新建及维修项目
 4. 牙科设备维修
 
-## 开源项目：
+### 开源项目：
 
 1. Rspress Theme：[人工智能制造 · Rspress Theme AIm](https://xindi-technology.github.io/rspress-theme-aim/)
 
-## 成员：
+### 成员：
 
 1. 张年强：[一个中年男人的昨天和今天 - 张年强](https://zhang-nianqiang.github.io/)
 
-## 联络方式：
+### 联络方式：
 
 1. Email：15840334992@163.com
 2. GitHub：[XinDi-Technology](https://github.com/XinDi-Technology)
