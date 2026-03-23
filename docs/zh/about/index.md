@@ -12,6 +12,7 @@
 ### 开源项目：
 
 1. Rspress Theme：[人工智能制造 · Rspress Theme AIm](https://xindi-technology.github.io/rspress-theme-aim/)
+1. 新地科技（沈阳）有限责任公司 官方 · 摸鱼时间 · 作品集：[新地科技](https://xindi-technology.github.io/)
 
 ### 成员：
 
